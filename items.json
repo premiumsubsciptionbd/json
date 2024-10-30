@@ -1,6 +1,16 @@
 [
+    
     {
         "id": 1,
+        "name": "YouTube Premium",
+        "description": "Ad-free videos, background play, and YouTube Music",
+        "price": 25,
+        "duration": "1 Month (trial)",
+        "image": "https://th.bing.com/th/id/OIP.6JqTEbu1dDsHNFDNF0BVrAHaFj?rs=1&pid=ImgDetMain",
+        "category": "Streaming"
+    },
+    {
+        "id": 2,
         "name": "Netflix Premium",
         "description": "4K HDR streaming, 4 screens simultaneously",
         "price": 450,
@@ -9,25 +19,25 @@
         "category": "Streaming"
     },
     {
-        "id": 2,
-        "name": "ExpressVPN",
-        "description": "Secure, fast VPN with servers in 94 countries",
-        "price": 12.99,
-        "duration": "1 Month",
-        "image": "https://www.fastestvpnguide.com/wp-content/uploads/2021/02/expressvpn-review.jpg",
-        "category": "VPN"
-    },
-    {
         "id": 3,
-        "name": "YouTube Premium",
-        "description": "Ad-free videos, background play, and YouTube Music",
-        "price": 25,
+        "name": "Crunchyroll Premium",
+        "description": "Watch Anime Without Any Piracy official",
+        "price": 90,
         "duration": "1 Month",
-        "image": "https://th.bing.com/th/id/OIP.6JqTEbu1dDsHNFDNF0BVrAHaFj?rs=1&pid=ImgDetMain",
+        "image": "https://th.bing.com/th/id/OIP.6JqTEbu1dDsHNFDNF0BVrAHaFj?rs=1&pid=ImgDetMai",
         "category": "Streaming"
     },
     {
         "id": 4,
+        "name": "ExpressVPN",
+        "description": "Secure, fast VPN with servers in 94 countries",
+        "price": 12.99,
+        "duration": "1 Month (trial)",
+        "image": "https://www.fastestvpnguide.com/wp-content/uploads/2021/02/expressvpn-review.jpg",
+        "category": "VPN"
+    },
+    {
+        "id": 5,
         "name": "Spotify Premium",
         "description": "Ad-free music streaming with offline downloads",
         "price": 9.99,
@@ -36,16 +46,16 @@
         "category": "Streaming"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "NordVPN",
         "description": "Military-grade encryption and unlimited bandwidth",
         "price": 11.99,
-        "duration": "1 Month",
+        "duration": "1 Month (trial)",
         "image": "https://cdn.technadu.com/wp-content/uploads/2024/05/NordVPN-Review-Featured.jpg",
         "category": "VPN"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Discord Nitro",
         "description": "Enhanced Discord experience with custom emojis",
         "price": 9.99,
