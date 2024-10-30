@@ -1,32 +1,31 @@
-
 [
-    {
-            "id": 1,
-                    "name": "Netflix Premium",
-                            "description": "4K HDR streaming, 4 screens simultaneously",
-                                    "price": 450,
-                                            "duration": "15 days",
-                                                    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/Netflix-New-Feature-Audio-Only_1200x768.jpeg?size=690:388",
+{
+  "id": 1,
+    "name": "Netflix Premium",
+    "description": "4K HDR streaming, 4 screens simultaneously",
+    "price": 450,
+    "duration": "15 days",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/Netflix-New-Feature-Audio-Only_1200x768.jpeg?size=690:388",
                                                             "category": "Streaming"
-                                                                },
-                                                                    {
-                                                                            "id": 2,
-                                                                                    "name": "ExpressVPN",
-                                                                                            "description": "Secure, fast VPN with servers in 94 countries",
-                                                                                                    "price": 30,
-                                                                                                            "duration": "1 Month",
-                                                                                                                    "image": "https://www.fastestvpnguide.com/wp-content/uploads/2021/02/expressvpn-review.jpg",
-                                                                                                                            "category": "VPN"
-                                                                                                                                },
-                                                                                                                                    {
-                                                                                                                                            "id": 3,
-                                                                                                                                                    "name": "YouTube Premium",
-                                                                                                                                                            "description": "Ad-free videos, background play, and YouTube Music",
-                                                                                                                                                                    "price": 25,
-                                                                                                                                                                            "duration": "1 Month",
-                                                                                                                                                                                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hNrDN3fVe0UUtjTVls99_2ZCqkxNHmlnDw&usqp=CAU",
-                                                                                                                                                                                            "category": "Streaming"
-                                                                                                                                                                                                },
+},
+{
+    "id": 2,
+    "name": "ExpressVPN",
+    "description": "Secure, fast VPN with servers in 94 countries",
+    "price": 30,
+    "duration": "1 Month",
+    "image": "https://www.fastestvpnguide.com/wp-content/uploads/2021/02/expressvpn-review.jpg",
+    "category": "VPN"
+},
+{
+    "id": 3,
+    "name": "YouTube Premium",
+    "description": "Ad-free videos, background play, and YouTube Music",
+    "price": 25,
+    "duration": "1 Month",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hNrDN3fVe0UUtjTVls99_2ZCqkxNHmlnDw&usqp=CAU",
+    "category": "Streaming"
+},
                                                                                                                                                                                                     {
                                                                                                                                                                                                             "id": 4,
                                                                                                                                                                                                                     "name": "Spotify Premium",
