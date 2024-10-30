@@ -3,8 +3,8 @@
         "id": 1,
         "name": "Netflix Premium",
         "description": "4K HDR streaming, 4 screens simultaneously",
-        "price": 19.99,
-        "duration": "1 Month",
+        "price": 450,
+        "duration": " 15 days",
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/Netflix-New-Feature-Audio-Only_1200x768.jpeg?size=690:388",
         "category": "Streaming"
     },
@@ -21,7 +21,7 @@
         "id": 3,
         "name": "YouTube Premium",
         "description": "Ad-free videos, background play, and YouTube Music",
-        "price": 11.99,
+        "price": 25,
         "duration": "1 Month",
         "image": "https://th.bing.com/th/id/OIP.6JqTEbu1dDsHNFDNF0BVrAHaFj?rs=1&pid=ImgDetMain",
         "category": "Streaming"
