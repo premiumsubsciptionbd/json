@@ -29,10 +29,10 @@
     },
     {
         "id": 4,
-        "name": "ExpressVPN",
+        "name": "Hotspot Shield Premium VPN",
         "description": "Secure, fast VPN with servers in 94 countries",
-        "price": 12.99,
-        "duration": "1 Month (trial)",
+        "price": 15,
+        "duration": "1 Month",
         "image": "https://www.fastestvpnguide.com/wp-content/uploads/2021/02/expressvpn-review.jpg",
         "category": "VPN"
     },
@@ -56,11 +56,11 @@
     },
     {
         "id": 7,
-        "name": "",
-        "description": "",
-        "price": 9.99,
+        "name": "Duolingo",
+        "description": "Learn Language with fun",
+        "price": 0,
         "duration": "1 Month",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjoovOxDtIeOEfEs4rmEj1PcxDdbS50G8NNM3jADtGVAvgf-6mheYoTunosqiJDxexpxM&usqp=CAU",
-        "category": "Gaming"
+        "category": "Learning"
     }
 ]
